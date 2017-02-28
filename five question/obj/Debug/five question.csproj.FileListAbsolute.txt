@@ -1,0 +1,6 @@
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\bin\Debug\five question.exe.config
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\bin\Debug\five question.exe
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\bin\Debug\five question.pdb
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\obj\Debug\five question.csprojResolveAssemblyReference.cache
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\obj\Debug\five question.exe
+C:\Users\bolaji tbgs\Documents\Visual Studio 2013\Projects\five question\five question\obj\Debug\five question.pdb
